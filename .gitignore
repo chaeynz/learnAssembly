@@ -15,6 +15,9 @@
 # Build folder
 /build/
 
+# Binary folder
+/bin/
+
 # Other files
 *.log
 *.map
